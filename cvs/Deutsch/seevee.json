@@ -1,1 +1,32 @@
-{}
+{
+    "firstname": "afsf",
+    "lastname": "afds",
+    "dateofbirth": "2016-04-13",
+    "jobtitle": "adgadgd",
+    "contact": {
+        "mobile": "234234",
+        "email": "adsfsdf@asdf.com",
+        "address": {
+            "street": "sfasf",
+            "postalcode": "3345",
+            "city": "asfasfd"
+        }
+    },
+    "qualification": "adgadg",
+    "qualificationalinstitution": "adg",
+    "languages": [],
+    "certifications": [],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
+}
